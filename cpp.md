@@ -3,26 +3,47 @@ CPP--Notes by sourabh sukla's youtube tutorial
 Some notes regarding the cpp 
 This cpp tutorial provided by the sourabh shukla on hi syoutube channel
 
-
+PAGE=1
 ![cpp notes1](../cppimages/cpp001.jpeg)
+PAGE=2
 ![cpp notes2](../cppimages/cpp002.jpeg)
+PAGE=3
 ![cpp notes3](../cppimages/cpp003.jpeg)
+PAGE=4
 ![cpp notes4](../cppimages/cpp004.jpeg)
+PAGE=5
 ![cpp notes5](../cppimages/cpp005.jpeg)
+PAGE=6
 ![cpp notes6](../cppimages/cpp006.jpeg)
+PAGE=7
 ![cpp notes7](../cppimages/cpp007.jpeg)
+PAGE=8
 ![cpp notes8](../cppimages/cpp008.jpeg)
+PAGE=9
 ![cpp notes9](../cppimages/cpp009.jpeg)
+PAGE=10
 ![cpp notes10](../cppimages/cpp010.jpeg)
+PAGE=11
 ![cpp nptes11](../cppimages/cpp011.jpeg)
+PAGE=12
 ![cpp notes12](../cppimages/cpp012.jpeg)
+PAGE=13
 ![cpp notes13](../cppimages/cpp013.jpeg)
+PAGE=14
 ![cpp notes14](../cppimages/cpp014.jpeg)
+PAGE=15
 ![cpp notes15](../cppimages/cpp015.jpeg)
+PAGE=16
 ![cpp notes16](../cppimages/cpp016.jpeg)
+PAGE=17
 ![cpp notes17](../cppimages/cpp017.jpeg)
+PAGE=18
 ![cpp notes18](../cppimages/cpp018.jpeg)
+PAGE=19
 ![cpp notes19](../cppimages/cpp019.jpeg)
+PAGE=20
 ![cpp notes20](../cppimages/cpp020.jpeg)
+PAGE=21
 ![cpp notes21](../cppimages/cpp021.jpeg)
+PAGE=22
 ![cpp notes22](../cppimages/cpp022.jpeg)
