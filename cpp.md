@@ -59,3 +59,9 @@ This cpp tutorial provided by the sourabh shukla on hi syoutube channel
 ![cpp notes27](./cppimages/cpp027.jpeg)
 # PAGE=28
 ![cpp notes28](./cppimages/cpp028.jpeg)
+# PAGE=29
+![cpp notes29](./cppimages/cpp029.jpeg)
+# PAGE=30
+![cpp notes30](./cppimages/cpp030.jpeg)
+# PAGE=31
+![cpp notes31](./cppimages/cpp031.jpeg)
